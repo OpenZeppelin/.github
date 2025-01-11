@@ -23,7 +23,7 @@
 1. [Documentation](https://docs.openzeppelin.com/): learn how to integrate our libraries and tools into your project.
 2. [Forum](https://forum.openzeppelin.com/): ask questions, share insights, and get help from our community.
 3. [Security Center](https://contracts.openzeppelin.com/security): all the security details you need to know about OpenZeppelin Contracts
-4. [OpenZeppelin Contracts Dune Dashboard](https://dune.com/openzeppelin/openzeppelin-contracts-metrics): real-time metrics and usage data for OpenZeppelin Contracts across various chains.
+4. [Dune Dashboard](https://dune.com/openzeppelin/openzeppelin-contracts-metrics): real-time metrics and usage data for OpenZeppelin Contracts across various chains.
 
 ---
 
