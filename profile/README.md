@@ -14,14 +14,16 @@
 - [rust-contracts-stylus](https://github.com/OpenZeppelin/rust-contracts-stylus): rust library for secure smart contract development for Arbitrum Stylus.
 - [uniswap-hooks](https://github.com/OpenZeppelin/uniswap-hooks): solidity library for secure and modular Uniswap hooks.
 - [polkadot-runtime-templates](https://github.com/OpenZeppelin/polkadot-runtime-templates): runtime templates for Polkadot parachains.
-- [Ethernaut](https://github.com/OpenZeppelin/ethernaut): An interactive wargame that turns you into a Solidity security expert.
-- [Contracts Wizard](https://github.com/OpenZeppelin/contracts-wizard): Instantly generate boilerplate contracts to bootstrap your next dApp.
+- [Ethernaut](https://github.com/OpenZeppelin/ethernaut): interactive wargame that turns you into a Solidity security expert.
+- [Contracts Wizard](https://github.com/OpenZeppelin/contracts-wizard): instantly generate boilerplate contracts to bootstrap your next dApp.
 
 ---
 
-## Getting Started
-1. [Documentation](https://docs.openzeppelin.com/): Learn how to integrate our libraries and tools into your project.
-2. [Forum](https://forum.openzeppelin.com/): Ask questions, share insights, and get help from our community.
+## Getting Started & Resources
+1. [Documentation](https://docs.openzeppelin.com/): learn how to integrate our libraries and tools into your project.
+2. [Forum](https://forum.openzeppelin.com/): ask questions, share insights, and get help from our community.
+3. [Security Center](https://contracts.openzeppelin.com/security): all the security details you need to know about OpenZeppelin Contracts
+4. [OpenZeppelin Contracts Dune Dashboard](https://dune.com/openzeppelin/openzeppelin-contracts-metrics): real-time metrics and usage data for OpenZeppelin Contracts across various chains.
 
 ---
 
