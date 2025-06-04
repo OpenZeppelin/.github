@@ -30,4 +30,4 @@
 ## Stay Connected
 - [X](https://x.com/openzeppelin): Follow us for the latest announcements and updates.
 - [Blog](https://blog.openzeppelin.com/): Dive deeper into our latest articles, security best practices, and community updates.
-- [Careers](https://www.openzeppelin.com/careers): Want to buld and secure open-source tools and protocols that protect the open economy? We’re hiring!
+- [Careers](https://www.openzeppelin.com/careers): Want to build and secure open-source tools and protocols that protect the open economy? We’re hiring!
