@@ -13,6 +13,7 @@
 - [openzeppelin-community-contracts](https://github.com/OpenZeppelin/openzeppelin-community-contracts): solidity library of smart contracts from the OpenZeppelin Community.
 - [rust-contracts-stylus](https://github.com/OpenZeppelin/rust-contracts-stylus): rust library for secure smart contract development for Arbitrum Stylus.
 - [uniswap-hooks](https://github.com/OpenZeppelin/uniswap-hooks): solidity library for secure and modular Uniswap hooks.
+- [confidential-contracts](https://github.com/OpenZeppelin/openzeppelin-confidential-contracts): experimental library for developing on the Zama fhEVM
 - [polkadot-runtime-templates](https://github.com/OpenZeppelin/polkadot-runtime-templates): runtime templates for Polkadot parachains.
 - [Ethernaut](https://github.com/OpenZeppelin/ethernaut): interactive wargame that turns you into a Solidity security expert.
 - [Contracts Wizard](https://github.com/OpenZeppelin/contracts-wizard): instantly generate boilerplate contracts to bootstrap your next dApp.
