@@ -9,14 +9,24 @@
 
 - [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts): solidity library for secure smart contract development on Ethereum.
 - [openzeppelin-contracts-upgradeable](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable): upgradeable variant of OpenZeppelin Contracts.
-- [cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts): cairo library for secure smart contract development on Starknet.
 - [openzeppelin-community-contracts](https://github.com/OpenZeppelin/openzeppelin-community-contracts): solidity library of smart contracts from the OpenZeppelin Community.
+- [cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts): cairo library for secure smart contract development on Starknet.
 - [rust-contracts-stylus](https://github.com/OpenZeppelin/rust-contracts-stylus): rust library for secure smart contract development for Arbitrum Stylus.
 - [uniswap-hooks](https://github.com/OpenZeppelin/uniswap-hooks): solidity library for secure and modular Uniswap hooks.
-- [confidential-contracts](https://github.com/OpenZeppelin/openzeppelin-confidential-contracts): experimental library for developing on the Zama fhEVM
+- [stellar-contracts](https://github.com/OpenZeppelin/stellar-contracts): sorobon contracts library for Stellar.
+- [confidential-contracts](https://github.com/OpenZeppelin/openzeppelin-confidential-contracts): experimental library for developing on the Zama fhEVM.
+- [compact-contracts](https://github.com/OpenZeppelin/midnight-contracts): compact contracts library for building on Midnight.
 - [polkadot-runtime-templates](https://github.com/OpenZeppelin/polkadot-runtime-templates): runtime templates for Polkadot parachains.
 - [Ethernaut](https://github.com/OpenZeppelin/ethernaut): interactive wargame that turns you into a Solidity security expert.
 - [Contracts Wizard](https://github.com/OpenZeppelin/contracts-wizard): instantly generate boilerplate contracts to bootstrap your next dApp.
+
+---
+
+## OpenZeppelin Tools
+
+- [Relayer](https://github.com/OpenZeppelin/openzeppelin-relayer): Infrastructure for relaying transactions on EVM and Non-EVM networks.
+- [Monitor](https://github.com/OpenZeppelin/openzeppelin-monitor): Infrastructure tool for monitoring blockchain events and transactions.
+- [UI Builder](https://github.com/OpenZeppelin/ui-builder): Open source tool for creating UI forms for contracts. 
 
 ---
 
