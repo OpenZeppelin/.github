@@ -3,6 +3,8 @@
 
 <img width="1500" alt="OpenZeppelin-Banner-DarkLogo" src="https://github.com/OpenZeppelin/.github/blob/main/banner.png">
 
+[Join our developer community on Telegram!](https://t.me/openzeppelin_tg)
+
 ---
 
 ## Explore Popular Repositories
@@ -39,6 +41,7 @@
 ---
 
 ## Stay Connected
+- [Telegram](https://t.me/openzeppelin_tg): Join our community of developers and stay connected. 
 - [X](https://x.com/openzeppelin): Follow us for the latest announcements and updates.
 - [Blog](https://blog.openzeppelin.com/): Dive deeper into our latest articles, security best practices, and community updates.
 - [Careers](https://www.openzeppelin.com/careers): Want to buld and secure open-source tools and protocols that protect the open economy? We’re hiring!
