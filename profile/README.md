@@ -15,7 +15,7 @@
 - [cairo-contracts](https://github.com/OpenZeppelin/cairo-contracts): cairo library for secure smart contract development on Starknet.
 - [rust-contracts-stylus](https://github.com/OpenZeppelin/rust-contracts-stylus): rust library for secure smart contract development for Arbitrum Stylus.
 - [uniswap-hooks](https://github.com/OpenZeppelin/uniswap-hooks): solidity library for secure and modular Uniswap hooks.
-- [stellar-contracts](https://github.com/OpenZeppelin/stellar-contracts): sorobon contracts library for Stellar.
+- [stellar-contracts](https://github.com/OpenZeppelin/stellar-contracts): soroban contracts library for Stellar.
 - [confidential-contracts](https://github.com/OpenZeppelin/openzeppelin-confidential-contracts): experimental library for developing on the Zama fhEVM.
 - [compact-contracts](https://github.com/OpenZeppelin/midnight-contracts): compact contracts library for building on Midnight.
 - [polkadot-runtime-templates](https://github.com/OpenZeppelin/polkadot-runtime-templates): runtime templates for Polkadot parachains.
