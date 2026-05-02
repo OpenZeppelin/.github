@@ -47,6 +47,7 @@ Start from the [documentation](https://docs.openzeppelin.com/) to choose your ec
 
 ### Sui (Move)
 - [contracts-sui](https://github.com/OpenZeppelin/contracts-sui): Move contracts library for Sui. 
+- [openzeppelin-sui-marketplace](https://github.com/OpenZeppelin/openzeppelin-sui-marketplace): end-to-end example of a small on-chain market on Sui.
 
 ---
 
